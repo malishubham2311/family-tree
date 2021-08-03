@@ -1,0 +1,14 @@
+﻿Person 1,Relation,Person 2,Gender,Details
+A,Earliest Ancestor,,M,Lorem ipsum
+B,Spouse,A,F,Lorem ipsum
+C,Child,A,M,Lorem ipsum
+D,Child,A,F,Lorem ipsum
+E,Child,A,M,Lorem ipsum
+F,Spouse,C,F,Lorem ipsum
+G,Spouse,D,M,Lorem ipsum
+H,Spouse,E,F,Lorem ipsum
+I,Child,C,F,Lorem ipsum
+J,Child,D,F,Lorem ipsum
+K,Child,E,M,Lorem ipsum
+L,Child,E,M,Lorem ipsum
+M,Spouse,I,M,Lorem ipsum
